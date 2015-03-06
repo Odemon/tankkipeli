@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Tankki</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Tankkipeli on OP!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
